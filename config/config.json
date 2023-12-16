@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Da24102003",
+    "database": "appDialigo",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Da24102003",
+    "database": "appDialigo",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Da24102003",
+    "database": "appDialigo",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
+
+

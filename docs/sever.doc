@@ -1,0 +1,14 @@
+Cấu trúc thư mục 
++++++++++++++++++++
+
+1 số status phổ biến trong node js 
+
+200 OK yêu cầu thành công 
+201 Create thành công 
+204 No content Sever Đã được xử lý thành công nhưng không có dữ liệu trả về
+ 304 Not Modified là một phản hồi từ máy chủ khi một trình duyệt yêu cầu một tài nguyên đã được tải trước đó và vẫn còn ở trạng thái mới nhất (không có thay đổi) dựa trên thông tin đã lưu trữ tại client.
+400t Yêu cầu khôgn hợp lệ sai hoặc dữ liệu ko hợp lệ 
+401 Unathozied Yêu cầu cần được xác thực 
+403 Forbidden: Server hiểu yêu cầu nhưng từ chối cung cấp dữ liệu. Người dùng không có quyền truy cập.
+404 Not Found: Server không tìm thấy nguồn tài nguyên yêu cầu.
+500 Internal Server Error: Lỗi xảy ra ở phía server khi xử lý yêu cầu, thường là lỗi không mong đợi.
